@@ -10,7 +10,7 @@ The code is organized into directories and it has a `package.json` file that inc
   - sudo npx create-react-app@5 travel-list
   - npm start
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
